@@ -1,0 +1,16 @@
+C:\Users\de0187210\source\repos\exercicioCurso1\exercicioCurso1\bin\Debug\net5.0\exercicioCurso1.exe
+C:\Users\de0187210\source\repos\exercicioCurso1\exercicioCurso1\bin\Debug\net5.0\exercicioCurso1.deps.json
+C:\Users\de0187210\source\repos\exercicioCurso1\exercicioCurso1\bin\Debug\net5.0\exercicioCurso1.runtimeconfig.json
+C:\Users\de0187210\source\repos\exercicioCurso1\exercicioCurso1\bin\Debug\net5.0\exercicioCurso1.runtimeconfig.dev.json
+C:\Users\de0187210\source\repos\exercicioCurso1\exercicioCurso1\bin\Debug\net5.0\exercicioCurso1.dll
+C:\Users\de0187210\source\repos\exercicioCurso1\exercicioCurso1\bin\Debug\net5.0\ref\exercicioCurso1.dll
+C:\Users\de0187210\source\repos\exercicioCurso1\exercicioCurso1\bin\Debug\net5.0\exercicioCurso1.pdb
+C:\Users\de0187210\source\repos\exercicioCurso1\exercicioCurso1\obj\Debug\net5.0\exercicioCurso1.csprojAssemblyReference.cache
+C:\Users\de0187210\source\repos\exercicioCurso1\exercicioCurso1\obj\Debug\net5.0\exercicioCurso1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\de0187210\source\repos\exercicioCurso1\exercicioCurso1\obj\Debug\net5.0\exercicioCurso1.AssemblyInfoInputs.cache
+C:\Users\de0187210\source\repos\exercicioCurso1\exercicioCurso1\obj\Debug\net5.0\exercicioCurso1.AssemblyInfo.cs
+C:\Users\de0187210\source\repos\exercicioCurso1\exercicioCurso1\obj\Debug\net5.0\exercicioCurso1.csproj.CoreCompileInputs.cache
+C:\Users\de0187210\source\repos\exercicioCurso1\exercicioCurso1\obj\Debug\net5.0\exercicioCurso1.dll
+C:\Users\de0187210\source\repos\exercicioCurso1\exercicioCurso1\obj\Debug\net5.0\ref\exercicioCurso1.dll
+C:\Users\de0187210\source\repos\exercicioCurso1\exercicioCurso1\obj\Debug\net5.0\exercicioCurso1.pdb
+C:\Users\de0187210\source\repos\exercicioCurso1\exercicioCurso1\obj\Debug\net5.0\exercicioCurso1.genruntimeconfig.cache
